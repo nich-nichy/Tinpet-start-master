@@ -1,0 +1,154 @@
+/* Selectors */
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+#features {
+  padding: 3% 15%;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+#cta {
+  background-color: #ff4c68;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
+/*Child section*/
+.headsec {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 1.5;
+}
+
+.fluid {
+  padding: 3% 15%;
+}
+
+.navbar-brand1 {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2.5rem;
+  color: white;
+}
+
+.ttle {
+  padding: 2.5rem;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand1:hover {
+  color: #d9d9d9;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.title-image {
+  margin-left: 100px;
+  width: 70%;
+  transform: rotate(8deg);
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.middle {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+  font-size: 23px;
+}
+
+.middle-para {
+  font-family: "Montserrat", sans-serif;
+  font-weight: lighter;
+  color: #8f8f8f;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  padding: 20px;
+}
+
+.undmid {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 3.5rem;
+  line-height: 4rem;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+  padding: 5px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.price-p {
+  color: #8f8f8f;
+}
+
+.cta-heading {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
